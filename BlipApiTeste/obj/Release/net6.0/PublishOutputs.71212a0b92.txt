@@ -1,0 +1,12 @@
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\BlipApiTeste.exe
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\appsettings.json
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\BlipApiTeste.dll
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\BlipApiTeste.deps.json
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\BlipApiTeste.runtimeconfig.json
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\BlipApiTeste.pdb
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Development\API\BlipApiTeste\BlipApiTeste\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
